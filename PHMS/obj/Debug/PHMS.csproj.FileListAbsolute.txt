@@ -1,0 +1,15 @@
+C:\Users\Munevera Plojovic\Desktop\PHMS\bin\Debug\PHMS.exe.config
+C:\Users\Munevera Plojovic\Desktop\PHMS\bin\Debug\PHMS.exe
+C:\Users\Munevera Plojovic\Desktop\PHMS\bin\Debug\PHMS.pdb
+C:\Users\Munevera Plojovic\Desktop\PHMS\obj\Debug\PHMS.csproj.AssemblyReference.cache
+C:\Users\Munevera Plojovic\Desktop\PHMS\obj\Debug\MainWindow.g.cs
+C:\Users\Munevera Plojovic\Desktop\PHMS\obj\Debug\App.g.cs
+C:\Users\Munevera Plojovic\Desktop\PHMS\obj\Debug\PHMS_MarkupCompile.cache
+C:\Users\Munevera Plojovic\Desktop\PHMS\obj\Debug\PHMS_MarkupCompile.lref
+C:\Users\Munevera Plojovic\Desktop\PHMS\obj\Debug\MainWindow.baml
+C:\Users\Munevera Plojovic\Desktop\PHMS\obj\Debug\PHMS.g.resources
+C:\Users\Munevera Plojovic\Desktop\PHMS\obj\Debug\PHMS.Properties.Resources.resources
+C:\Users\Munevera Plojovic\Desktop\PHMS\obj\Debug\PHMS.csproj.GenerateResource.cache
+C:\Users\Munevera Plojovic\Desktop\PHMS\obj\Debug\PHMS.csproj.CoreCompileInputs.cache
+C:\Users\Munevera Plojovic\Desktop\PHMS\obj\Debug\PHMS.exe
+C:\Users\Munevera Plojovic\Desktop\PHMS\obj\Debug\PHMS.pdb
