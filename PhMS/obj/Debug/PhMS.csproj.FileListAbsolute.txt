@@ -1,0 +1,10 @@
+C:\Users\Munevera Plojovic\Desktop\Pharmacy-Management-System\PhMS\bin\Debug\PhMS.exe.config
+C:\Users\Munevera Plojovic\Desktop\Pharmacy-Management-System\PhMS\bin\Debug\PhMS.exe
+C:\Users\Munevera Plojovic\Desktop\Pharmacy-Management-System\PhMS\bin\Debug\PhMS.pdb
+C:\Users\Munevera Plojovic\Desktop\Pharmacy-Management-System\PhMS\obj\Debug\PhMS.csproj.AssemblyReference.cache
+C:\Users\Munevera Plojovic\Desktop\Pharmacy-Management-System\PhMS\obj\Debug\PhMS.Form1.resources
+C:\Users\Munevera Plojovic\Desktop\Pharmacy-Management-System\PhMS\obj\Debug\PhMS.Properties.Resources.resources
+C:\Users\Munevera Plojovic\Desktop\Pharmacy-Management-System\PhMS\obj\Debug\PhMS.csproj.GenerateResource.cache
+C:\Users\Munevera Plojovic\Desktop\Pharmacy-Management-System\PhMS\obj\Debug\PhMS.csproj.CoreCompileInputs.cache
+C:\Users\Munevera Plojovic\Desktop\Pharmacy-Management-System\PhMS\obj\Debug\PhMS.exe
+C:\Users\Munevera Plojovic\Desktop\Pharmacy-Management-System\PhMS\obj\Debug\PhMS.pdb
