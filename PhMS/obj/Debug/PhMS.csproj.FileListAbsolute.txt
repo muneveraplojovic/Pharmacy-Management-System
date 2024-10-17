@@ -8,3 +8,4 @@ C:\Users\Munevera Plojovic\Desktop\Pharmacy-Management-System\PhMS\obj\Debug\PhM
 C:\Users\Munevera Plojovic\Desktop\Pharmacy-Management-System\PhMS\obj\Debug\PhMS.csproj.CoreCompileInputs.cache
 C:\Users\Munevera Plojovic\Desktop\Pharmacy-Management-System\PhMS\obj\Debug\PhMS.exe
 C:\Users\Munevera Plojovic\Desktop\Pharmacy-Management-System\PhMS\obj\Debug\PhMS.pdb
+C:\Users\Munevera Plojovic\Desktop\Pharmacy-Management-System\PhMS\obj\Debug\PhMS.Adminstrator.resources
